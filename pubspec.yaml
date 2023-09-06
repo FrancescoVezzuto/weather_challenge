@@ -1,0 +1,27 @@
+name: weather_challenge
+description: Creare una app utilizzando Flutter composta da un'unica pagina che mostra a video le previsioni meteo orarie per una predeterminata posizione geografica.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'  # Aggiornato il valore dello SDK a una versione supportata
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  flutter_sequence_animation: ^4.0.0
+  intl: ^0.17.0  # Aggiunto il pacchetto intl
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  geolocator: ^8.2.1
+  geocoding: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
