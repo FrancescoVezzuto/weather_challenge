@@ -1,16 +1,30 @@
-# weather_challenge
+# Weather_Challenge 🌦️
 
-Creare una app utilizzando Flutter composta da un'unica pagina che mostra a video le previsioni meteo orarie per una predeterminata posizione geografica.
+Benvenuti in un'app Flutter di previsioni meteo, che fornisce le informazioni necessarie per pianificare la giornata.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Descrizione del Progetto
 
-A few resources to get you started if this is your first Flutter project:
+L'obiettivo di questo progetto è creare un'applicazione Flutter che fornisca le previsioni meteo correnti, su base oraria per una determinata posizione geografica.
+L'interfaccia utente è stata progettata per essere intuitiva e facile da usare.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Uso dell'API
+
+L'applicazione fa uso di un'API per ottenere le previsioni meteo. Infatti, viene effettuata una richiesta HTTP per recuperare i dati relativi alla temperatura, alla velocità del vento, all'umidità, ed ancora altri parametri.
+
+
+# UI
+
+La UI è stata progettata con un approccio user-friendly e, vuole così essere molto semplice e intuitiva.
+
+
+# Esecuzione del Progetto
+
+Per eseguire il progetto, è necessario avere un ambiente Flutter configurato sul proprio sistema. Una volta installato Flutter, sarà possibile eseguire l'app in un emulatore o su un dispositivo fisico.
+
+
+# Conclusione
+
+Grazie,
+Buona esplorazione del meteo! ☀️🌧️🌈
